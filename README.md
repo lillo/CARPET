@@ -1,6 +1,6 @@
 # CARPET
 
-CARPET is the main tool of the PrYVeCT framework, a *privacy-yet-verifiable* contact tracing system developed by IMT School for Advanced Studies in Lucca.
+CARPET is the main tool of the PrYVeCT framework, a *privacy-yet-verifiable* contact tracing system.
 
 #### Execution of the tool
 
